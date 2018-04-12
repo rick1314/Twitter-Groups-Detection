@@ -18,6 +18,6 @@ I was using an online tool to grab tweets from #hashtags on twitter then extract
 
 v2.0 - a complete standalone program to just accept a #hashtag. It will then extract tweets, retweets and graw graph using both the details.
 
-v2.5 - the program can now also export the edge list in .gexf format so that it can be imported to Gephi. The program when run with "resolve" command will convert the node names from twitter account IDs to usernames. 
+v2.5 - the program can now also export the edge list in .gexf format so that it can be imported to Gephi. The program when run with "resolve" command will convert the node names from twitter account IDs to usernames. The program now has multiple checkpoints so that even if the program crashes during any of the steps we can restart from the same point.
 
 
