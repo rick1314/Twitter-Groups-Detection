@@ -3,7 +3,7 @@ Collection of Scripts, files and documents for my Final Year Btech project on in
 
 Final Result:
 
-#+html: <p align="center"><img src="https://i.imgur.com/OMZ2VCT.png" /></p>
+<p align="center"><img src="https://i.imgur.com/OMZ2VCT.png" /></p>
 Here we searched for tweets for the hashtag #fakenews around begining of April when the Indian IB Ministry had issued a circular regarding punishing journalists who spread fake news. We were able to scrape tweets and find distinct clusters of twitter accounts who were talking about this using hashtag #fakenews
 
 Orange = BJP inclined accounts
