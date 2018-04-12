@@ -4,12 +4,12 @@ Collection of Scripts, files and documents for my Final Year Btech project on in
 Final Result:
 
 <p align="center"><img src="https://i.imgur.com/OMZ2VCT.png" /></p>
-Here we searched for tweets for the hashtag #fakenews around begining of April when the Indian IB Ministry had issued a circular regarding punishing journalists who spread fake news. We were able to scrape tweets and find distinct clusters of twitter accounts who were talking about this using hashtag #fakenews
+Here we searched for tweets for the hashtag #fakenews around begining of April when the Indian IB Ministry had issued a circular regarding punishing journalists who spread fake news. We were able to scrape tweets and find distinct clusters of twitter accounts who were talking about this using hashtag #fakenews <br/>
 
-Orange = BJP inclined accounts
-Blue = Congress inclined accounts
-Green = News outlets and mostly unbiased accounts
-Purple = Accounts from USA who were talking about the media targetting Trump with #fakenews
+Orange = BJP inclined accounts<br/>
+Blue = Congress inclined accounts<br/>
+Green = News outlets and mostly unbiased accounts<br/>
+Purple = Accounts from USA who were talking about the media targetting Trump with #fakenews<br/>
 
 
 v1.0 - contains the initial presentation and report that was created after the initial study, also contains the first program I wrote to draw the graph using twitter accounts and the list of their followers, following. The program took a list of accounts as input. 
