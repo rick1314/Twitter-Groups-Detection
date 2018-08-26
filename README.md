@@ -1,6 +1,8 @@
 # FinalYearProject
 Collection of Scripts, files and documents for my Final Year Btech project on information flow through social networks (like twitter).
 
+The entire project report: https://drive.google.com/file/d/11Ro1goUu_WuHx5aF9C3gL45kYooQEZGI/view
+
 Final Result:
 
 <p align="center"><img src="https://i.imgur.com/OMZ2VCT.png" /></p>
